@@ -2,6 +2,10 @@
 ### Hello there, I am Larry and I am an experienced Software Developer.
 I am looking to share what I am working on and expand my knowledge through my projects and others.
 
+## Connect with me:
+
+<a href = "https://www.linkedin.com/in/larry-wade-61125984/">LinkedIn</a>
+
 ## Current Projects
 1. Generic Procedures  (Java) - This is a project I have created so I can pull more generic functions for my other Java projects when needed.
 2. GUIBuilder (Java) - This project is my proof of concept for where I can build a Swing GUI for other projects from a CSV file based on the fields I bring in.
