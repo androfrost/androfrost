@@ -10,6 +10,7 @@ I am looking to share what I am working on and expand my knowledge through my pr
 1. Generic Procedures  (Java) - This is a project I have created so I can pull more generic functions for my other Java projects when needed.
 2. GUIBuilder (Java) - This project is my proof of concept for where I can build a Swing GUI for other projects from a CSV file based on the fields brought in.
 3. File Processor (Java) - This project processes text and CSV files for use in other program.
+4. Resort-Band (C#) - This project imitates the backend of the Disney MagicBand system.
 
 There are more of my interrelated projects to be added in the near future.  I like to make generic setups to work in many different areas.
 
