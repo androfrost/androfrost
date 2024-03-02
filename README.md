@@ -1,5 +1,5 @@
 # Larry C. Wade
-### Hello there, I am Larry and I am an experienced Full StackSoftware Developer.
+### Hello there, I am Larry and I am an experienced Full Stack Software Developer.
 I am looking to share what I am working on and expand my knowledge through my projects and others.
 
 ## Connect with me:
