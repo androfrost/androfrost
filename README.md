@@ -1,5 +1,5 @@
 # Larry C. Wade
-### Hello there, I am Larry and I am an experienced Software Developer.
+### Hello there, I am Larry and I am an experienced Full StackSoftware Developer.
 I am looking to share what I am working on and expand my knowledge through my projects and others.
 
 ## Connect with me:
@@ -11,6 +11,7 @@ I am looking to share what I am working on and expand my knowledge through my pr
 2. GUIBuilder (Java) - This project is my proof of concept for where I can build a Swing GUI for other projects from a CSV file based on the fields brought in.
 3. File Processor (Java) - This project processes text and CSV files for use in other program.
 4. Resort-Band (C#) - This project imitates the backend of the Disney MagicBand system.
+5. TournamentUI (Angular) - This project sets up tournaments match opponents and run through rounds based on records.
 
 There are more of my interrelated projects to be added in the near future.  I like to make generic setups to work in many different areas.
 
