@@ -17,7 +17,7 @@ There are more of my interrelated projects to be added in the near future.  I li
 
 ## Learning
 I am constantly learning to improve my skills in all aspects of Development.  Anything from researching code, reading articles, watching videos, to testing out what I know.
-1. Java - Most of my current projects I am building on my own are in Java
+1. Java
 2. SQL
 3. C#
 4. Angular - CSS, HTML, TypeScript
