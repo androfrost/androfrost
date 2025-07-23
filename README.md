@@ -1,5 +1,5 @@
 # Larry C. Wade
-### Hello there, I am Larry and I am an experienced Full Stack Software Engineer.
+### Hello there, I am Larry Wade and I am an experienced Full Stack Software Engineer.
 I am looking to share what I am working on and expand my knowledge through my projects and others.  I enjoy software development and want to be able to create all aspects of a full stack websites.  I have many years of experience but I am always learning and want to be the best I can be.
 
 ## Connect with me:
@@ -7,7 +7,7 @@ I am looking to share what I am working on and expand my knowledge through my pr
 <a href = "https://www.linkedin.com/in/larry-wade-61125984/">LinkedIn</a>
 
 ## Current Project
-Event Management - This project allows companies and individuals make events.<br>
+Event Management - This project allows companies and individuals to make events.  The creators of these events can decide how they control all aspects of the events from staff and user to smaller internal events that make up the whole.<br>
    a.  Event.UI<br>
    b.  EventAPI
 
