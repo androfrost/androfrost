@@ -6,7 +6,10 @@ I am looking to share what I am working on and expand my knowledge through my pr
 
 <a href = "https://www.linkedin.com/in/larry-wade-61125984/">LinkedIn</a>
 
-## Current Project
+## Current Projects
+The Nexus - This project will create a place to store all members of your family and important information about them.<br>
+   a. TheNexus.UI<br>
+
 Event Management - This project allows companies and individuals to make events.  The creators of these events can decide how they control all aspects of the events from staff and user to smaller internal events that make up the whole.<br>
    a.  Event.UI<br>
    b.  EventAPI
